@@ -1,21 +1,36 @@
-# Frontend Internship 2026 🚀
-A self-paced frontend development internship where I build one project per day to develop real, practical web development skills.
+# From HTML to MERN 🚀
 
-# 🛠️ Technologies Used
+A collection of web development projects and exercises I'm building while learning full stack development — starting with the basics (HTML, CSS, TailwindCSS) and working toward the MERN stack (MongoDB, Express, React, Node.js).
+
+This repo is my practice log — a mix of course exercises (DigiSkills 3.0 – Full Stack Development with MERN) and personal side projects.
+
+## 📂 Projects
+
+| Project | Description | Tech Used |
+|---|---|---|
+| `personal-profile-page` | A basic personal profile web page with About, Skills, and Contact sections | HTML, TailwindCSS |
+
+*(This table will grow as I add more projects.)*
+
+## 🛠️ Tech Stack (so far)
+
 - HTML5
 - CSS3
-- JavaScript (coming soon)
+- TailwindCSS
+- Git & GitHub
+- *(Coming soon: JavaScript, React, Node.js, Express, MongoDB)*
 
-# 📁 Projects
+## 🎯 Purpose
 
-### Day 1 — Personal Bio Card
-A responsive bio card built with HTML and CSS using Flexbox.
+I'm learning full stack web development step by step. This repo helps me:
+- Practice concepts hands-on instead of just watching tutorials
+- Track my progress over time
+- Build a habit of using Git and GitHub properly
 
-### Day 2 — Navigation Bar
-A clean navigation bar built with HTML and CSS.
+## 📌 Status
 
-# 👩‍💻 About
-I'm Maryam, an Aspiring Software Engineer studying at Virtual University of Pakistan, passionate about frontend development and Python.
+🔄 In progress — currently on Week 5 of a 15-week MERN course.
 
-# 🔗 Connect
-- LinkedIn: [Maryam Ghouri](https://www.linkedin.com/in/maryam-ghouri-9844503a3)
+## 📬 Contact
+
+Feel free to reach out: maryamghouri022@gmail.com
