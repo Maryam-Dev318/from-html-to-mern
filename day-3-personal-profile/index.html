@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Profile</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+        #card{
+            background: white;
+            max-width: 600px;
+            padding: 30px;
+            border: 1px soild black;
+            box-shadow: 0 4px 10px lightgray;
+            border-radius: 12px;
+        }
+        
+        section{
+            margin-bottom: 25px;
+        }
+        h1{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            color: #34495e;
+            margin-bottom: 10px;
+        }
+        h2{
+            margin-bottom: 10px;
+            color: #34495e;
+        }
+        p{
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 8px;
+        }
+        ul{
+            padding-left: 20px;
+            color: #555;
+        }
+        li{
+            margin-bottom: 5px;
+        }
+        /*Responsiveness */
+        @media (max-width: 480px){
+            .card{
+                padding: 20px;
+            }
+            nav{
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="card">
+        <section id="home">
+        <h1>Marryam Ghouri</h1>
+        <hr>
+        </section>
+        <section id="about">
+            <h2>About me:</h2>
+            <p>I am a student in Virtual Unversity if pakistan currently in 1st year of Bachelors of Science in Software Engineering. I am also pursuing my skill building through courses from the platforms like Digiskills and coursera. I like exploring new tools , buidling things step by step and understanding how the web works under the hood.</p>
+        </section>
+         
+        <section id="skills">
+             <h2>Skills: </h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>Git and Github</li>
+            <li>Digital literacy</li>
+        </ul>
+        </section>
+        
+        <section id="contact">
+            <h2>Contact:</h2>
+            <p>Feel free to reach out:</p>
+            <a href="gmail.com">maryamghouri022@gmail.com</a>
+        </section>
+    </div>
+
+</body>
+</html>
+<!-- https://github.com/Maryam-Dev318/from-html-to-mern --> 
